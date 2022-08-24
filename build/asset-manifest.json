@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7720ab7.css",
+    "main.js": "/static/js/main.876e8184.js",
+    "static/media/2.jpg": "/static/media/2.01a5787230cd4be528be.jpg",
+    "static/media/1.jpg": "/static/media/1.5a61113a82e812dec0e7.jpg",
+    "static/media/19.jpg": "/static/media/19.b4567e83c0c534f32918.jpg",
+    "static/media/21.jpg": "/static/media/21.f8906bb5263a70e82b3c.jpg",
+    "static/media/9.jpg": "/static/media/9.dbed2575283871e331e1.jpg",
+    "static/media/26.jpg": "/static/media/26.f35376b305c533533c2c.jpg",
+    "static/media/25.jpg": "/static/media/25.dab2d4599aaf64bb2aef.jpg",
+    "static/media/10.jpg": "/static/media/10.c673962ca444052b4af5.jpg",
+    "static/media/28.jpg": "/static/media/28.7d26597868b0840ce019.jpg",
+    "static/media/23.jpg": "/static/media/23.dcf5708d6645d723aee9.jpg",
+    "static/media/11.jpg": "/static/media/11.32afcfa4c363a5ad53c0.jpg",
+    "static/media/30.jpg": "/static/media/30.0d45f8ce46c352ec95d5.jpg",
+    "static/media/16.jpg": "/static/media/16.b0a74a811cef7b188871.jpg",
+    "static/media/17.jpg": "/static/media/17.120677ae53ece5732b39.jpg",
+    "static/media/14.jpg": "/static/media/14.0330c83dc2b2aa3994ca.jpg",
+    "static/media/046.jpg": "/static/media/046.0b56606fbc2eaf480f6d.jpg",
+    "static/media/32.jpg": "/static/media/32.17a66b3182fec90df614.jpg",
+    "static/media/6.jpg": "/static/media/6.b31d688b4d5e46e8a2a8.jpg",
+    "static/media/13.jpg": "/static/media/13.0e13621a7054bea21a1b.jpg",
+    "static/media/12.jpg": "/static/media/12.a1fa43799ab4006fd29e.jpg",
+    "static/media/5.jpg": "/static/media/5.dcead2a173b11c6b3797.jpg",
+    "static/media/4.jpg": "/static/media/4.1a16142ef65a9b6e2b61.jpg",
+    "static/media/31.jpg": "/static/media/31.f3456bf8b3265da4ef76.jpg",
+    "static/media/3.jpg": "/static/media/3.a2ad70d55290d8598ed5.jpg",
+    "static/media/7.jpg": "/static/media/7.409c06257ff65b6b0641.jpg",
+    "static/media/8.jpg": "/static/media/8.315b80baf707b903be1a.jpg",
+    "static/media/logo.png": "/static/media/logo.e04e6ab11b39a835642f.png",
+    "static/media/vk.svg": "/static/media/vk.db627cdd1c9aa6070dfcc8c8d1e939a3.svg",
+    "static/media/tm.svg": "/static/media/tm.7ee80df54d486e2ed3fbc63988b29597.svg",
+    "index.html": "/index.html",
+    "main.e7720ab7.css.map": "/static/css/main.e7720ab7.css.map",
+    "main.876e8184.js.map": "/static/js/main.876e8184.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7720ab7.css",
+    "static/js/main.876e8184.js"
+  ]
+}
